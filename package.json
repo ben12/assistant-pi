@@ -1,9 +1,9 @@
 {
-  "name": "assistant-template",
+  "name": "assistant-pi",
   "version": "2.0.0",
-  "description": "Exemple de la structure d'un plugin",
-  "author": "aymkdn",
-  "main":"template.js",
-  "repository":"https://github.com/Aymkdn/assistant-template/",
+  "description": "Plugin Raspberry Pi pour un Assistant",
+  "author": "ben.12",
+  "main":"pi.js",
+  "repository":"https://github.com/ben12/assistant-pi/",
   "license": "MIT"
 }

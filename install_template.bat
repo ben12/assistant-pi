@@ -1,1 +1,1 @@
-start cmd /k "npm install assistant-template --save --loglevel error && npm run-script postinstall"
+start cmd /k "npm install assistant-pi --save --loglevel error && npm run-script postinstall"
